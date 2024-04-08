@@ -1,5 +1,7 @@
 # Paraná Delta Burned Area App
 
+![image](https://github.com/francobarrionuevoenv21/Delta_Fires_GEEApp/assets/78272951/b0854d5c-d834-4542-9039-074d43ffb135)
+
 ## About the repository
 
 This repository contains the main code to run the Paraná Delta Burned Area App in the Google Earth Engine environment. All the code was written using the JavaScript GEE API. 
