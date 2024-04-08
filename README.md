@@ -17,18 +17,18 @@ through the NDVI and NDWI index, respectively. These parameters provide meaningf
 
 1) Copy or download the code.
 2) Enter GEE platform, create a new file and paste de code
-3) In the following lines change the path of your study region vector file (a) and the time range of analysis (b)
+3) In the following lines change the path of your study region vector file **(a)** and the time range for analysis **(b)**
 
-(a)
+**(a)**
 ```
 var deltaParana = ee.FeatureCollection('projects/ee-my-francodbarr/assets/shpDelta');
 //// Here you can load your own study region.
 ```
-(b)
+**(b)**
 
 ```
 var startYear = '2001'; //// First year
 var endYear = '2022'; //// Last year, including it
 //// Lines aboves determines years that the user will be able to analyze
 ```
-
+4) Create the app and share it!
