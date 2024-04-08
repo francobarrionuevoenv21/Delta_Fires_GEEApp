@@ -18,14 +18,15 @@ through the NDVI and NDWI index, respectively. These parameters provide meaningf
 3) In the following lines change the path of your study region vector file (a) and the time range of analysis (b)
 
 (a)
-‘’’
+```
 var deltaParana = ee.FeatureCollection('projects/ee-my-francodbarr/assets/shpDelta');
 //// Here you can load your own study region.
-‘’’
+```
 (b)
 
-‘’’
+```
 var startYear = '2001'; //// First year
 var endYear = '2022'; //// Last year, including it
 //// Lines aboves determines years that the user will be able to analyze
-‘’’
+```
+
