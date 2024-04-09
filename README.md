@@ -16,7 +16,7 @@ through the NDVI and NDWI index, respectively. These parameters provide meaningf
 ## How can you use it for your study region?
 
 1) Copy or download the code.
-2) Enter GEE platform, create a new file and paste de code
+2) Enter GEE platform, create a new file and paste the code
 3) In the following lines change the path of your study region vector file **(a)** and the time range for analysis **(b)**
 
 **(a)**
